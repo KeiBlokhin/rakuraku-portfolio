@@ -1,7 +1,7 @@
 import React from 'react'
 import mat from '../../assets/img/takahashi.jpg'
 import rhiannon from '../../assets/img/allah.jpg'
-import chris from '../../assets/img/matt.webp'
+import chris from '../../assets/img/matt.jpg'
 
 export default function AboutUs() {
   return (
