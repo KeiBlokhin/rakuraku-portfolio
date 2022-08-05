@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import tesla from '../../assets/img/material-ui.jpeg'
+import tesla from '../../assets/img/material-ui.jpg'
 
 export default function Cours() {
   return (

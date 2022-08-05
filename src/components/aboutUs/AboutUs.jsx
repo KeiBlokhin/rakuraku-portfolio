@@ -18,7 +18,7 @@ export default function AboutUs() {
 
               <div>
                 <h2 className='text-white text-xl font-bold'>
-                  Yoshi Takahashi
+                  Yoshihiro Takahashi
                 </h2>
                 <p className=' text-clrSmall'>Web designer</p>
               </div>

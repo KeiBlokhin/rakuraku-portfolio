@@ -1,5 +1,5 @@
 import React from 'react'
-import tesla from '../assets/img/material-ui.jpeg'
+import tesla from '../assets/img/material-ui.jpg'
 
 function Courses() {
   return (
