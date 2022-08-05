@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import tesla from '../../assets/img/Material_UI.jpeg'
+import tesla from '../../assets/img/material-ui.jpeg'
+
 export default function Cours() {
   return (
     <section className='py-24' id='course'>
